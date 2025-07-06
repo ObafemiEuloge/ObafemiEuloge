@@ -8,19 +8,20 @@
 
 ---
 
-
 ## 🚀 À propos de moi
 
 > **"A programmer transforms complexity into simplicity."**
 
-Je suis un **Développeur FullStack Senior** passionné, spécialisé dans **Django/Python** et le développement d'applications web modernes. Actuellement **Développeur Backend Senior chez SCAR-SOFT**, je crée des solutions robustes et évolutives.
+Je suis un **Développeur FullStack**. Actuellement **Développeur Fullstack Senior chez SCAR-SOFT**, je crée des solutions robustes et évolutives.
 
-- 🔭 **Poste actuel :** Développeur Backend Senior @ **SCAR-SOFT** (depuis Nov. 2024)
-- 🏆 **Spécialités :** Django, Python, NuxtJS, VueJS, APIs REST, Applications FinTech...
-- 🎯 **Expertise :** Vue.js, Laravel, Django, Systèmes de paiement, SaaS
+- 🔭 **Poste actuel :** Développeur Fullstack Senior @ **SCAR-SOFT** (depuis Nov. 2024)
+- 🏆 **Spécialités :** Django, Python, APIs REST, Applications FinTech...
+- 🎯 **Expertise :** Vue.js, Laravel, Django, Systèmes de paiement, automatisation
+- ⚙️ **DevOps :** Docker, CI/CD (GitHub Actions, GitLab), Configuration serveur
+- 🐧 **Automatisation :** Scripts Bash, Déploiement automatisé
 - 🌍 **Localisation :** Abomey-Calavi, Bénin 🇧🇯
 - 📧 **Contact :** eagnoun@gmail.com
-- 📱 **Téléphone :** +229 01 96 256 694
+- 📱 **Téléphone/Whatsapp :** +229 01 96 256 694
 
 ---
 
@@ -40,10 +41,17 @@ Je suis un **Développeur FullStack Senior** passionné, spécialisé dans **Dja
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Bases de Données & DevOps
+### Bases de Données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### DevOps & Déploiement
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -69,23 +77,24 @@ Je suis un **Développeur FullStack Senior** passionné, spécialisé dans **Dja
 
 ### **Développeur Backend Senior** | SCAR-SOFT
 *Novembre 2024 - Présent*
-- Fonctionnalité de signature numérique et génération de document administratif (Django)
-- Système de gestion d'utilisateurs avec rôles et permissions granulaires (Django)
-- Conception et optimisation d'applications backend pour clients stratégiques (Spring-boot)
-- Collaboration avec équipes multi-disciplinaires pour des livrables haute qualité (Spring-boot)
-- Système de 2FA (Spring-boot & AngularJS)
+- Conception et optimisation d'applications backend pour clients stratégiques
+- Fonctionnalité de signature électronique et génération de document signés
+- Système complet de gestion d'utilisateurs avec rôles et permissions granulaires
+- Mise en place d'architectures logicielles robustes et évolutives
+- Configuration serveur et déploiement avec Docker/Docker-compose
+- Automatisation CI/CD avec GitHub Actions
 
 ### **Développeur FullStack & Chargé de Programme** | GUNIVERS
 *Mai - Octobre 2024*
 - Développement CMS Laravel pour site officiel entreprise
-- Création API REST pour applications internes avec Laravel
+- Création API REST pour applications internes avec Django/Python
 - Intégration systèmes de paiement et authentification JWT
+- Pipeline CI/CD avec GitLab et déploiement automatisé
 
 ### **Développeur Web** | VIPP INTERSTIS
 *Janvier - Avril 2024*
 - Développement interfaces Vue.js intuitives
-- Création scripts de traitement audio avec Python/Django
-- Gestion de projets en équipe
+- Création scripts de traitement audio avec Bash et PHP
 
 ---
 
@@ -105,8 +114,29 @@ Développement de plateformes d'entreprise modernes
 
 ### 🔗 **Fèmi Shortify**
 Service de raccourcissement d'URLs avec analytics
-- **Technologies :** Django, Python, PostgreSQL
+- **Technologies :** Vue.JS, Firebase
 - **Live Demo :** [femiurls.netlify.app](http://femiurls.netlify.app/)
+
+---
+
+## ⚙️ Compétences DevOps & Infrastructure
+
+### 🐳 **Containerisation & Orchestration**
+- **Docker & Docker-compose** pour environnements de développement et production
+- Configuration multi-services avec bases de données et caching
+- Orchestration d'applications complexes avec plusieurs conteneurs
+
+### 🚀 **CI/CD & Automatisation**
+- Pipeline CI/CD avec **GitHub Actions** et **GitLab CI**
+- Scripts **Bash** pour automatisation des tâches répétitives
+- Déploiement automatisé sur serveurs de production
+- Tests automatisés et validation de code
+
+### 🖥️ **Configuration Serveur & Production**
+- Installation et configuration serveurs **Linux**
+- Gestion des environnements (développement, staging, production)
+- Monitoring et maintenance d'applications en production
+- Sécurisation et optimisation des performances serveur
 
 ---
 
@@ -118,7 +148,7 @@ Service de raccourcissement d'URLs avec analytics
 |--------|-------------|------|
 | **US INFORMATIQUE** | Dashboard entreprise tech moderne | [Voir sur Figma](https://www.figma.com/design/IDzGdi2oAJEIFeyb6WHxlh/US-INFORMATIQUE) |
 | **Mot2DePasse** | App gestion mots de passe sécurisée | [Voir sur Figma](https://www.figma.com/design/BZEnsNy0Tlg6FCnDp1i2r4/Mot2DePasse) |
-| **VAILLANA** | Interface chatbot de génération de site vitrine | [Voir sur Figma](https://www.figma.com/design/shKkfymd4KHne7nY8etMf8/Maquette-HIGHFIVE) |
+| **VAILLANA** | Chatbot de génération de site vitrine | [Voir sur Figma](https://www.figma.com/design/shKkfymd4KHne7nY8etMf8/Maquette-HIGHFIVE) |
 
 ---
 
@@ -130,10 +160,12 @@ Service de raccourcissement d'URLs avec analytics
 
 ---
 
-## 🌟 Compétences Soft Skills
+## 🌟 Compétences Techniques Avancées
 
 - **🎯 Leadership technique** - Gestion d'équipes de développement
 - **💡 Innovation** - Création de solutions créatives et efficaces
+- **🐳 DevOps & Déploiement** - Docker, CI/CD, Configuration serveur
+- **⚙️ Automatisation** - Scripts Bash, Pipeline GitHub Actions/GitLab
 - **🤝 Communication** - Excellent relationnel client et équipe
 - **🔄 Adaptabilité** - Veille technologique constante
 
@@ -165,7 +197,7 @@ Service de raccourcissement d'URLs avec analytics
 
 ### 💻 Actuellement disponible pour
 
-**Développement Django/Python** • **Consulting technique** • **Projets FinTech** • **Mentorat**
+**Développement Django/Python** • **DevOps & CI/CD** • **Consulting technique** • **Projets FinTech** • **Configuration serveur** • **Mentorat**
 
 *"Créons ensemble des solutions qui transforment les idées en réalité"* ✨
 
