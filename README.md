@@ -1,17 +1,4 @@
-## Hi there 👋
-
-<!--
-**ObafemiEuloge/ObafemiEuloge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...<div align="center">
+<div align="center">
   
 ## 👋 Salut & Bienvenue sur Mon Profil GitHub !
 
@@ -395,5 +382,3 @@ console.log("Construisons l'avenir numérique ensemble ! 🚀");
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-- ⚡ Fun fact: ...
--->
