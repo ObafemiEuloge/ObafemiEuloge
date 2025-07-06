@@ -8,23 +8,23 @@
 
 ---
 
-## 🚀 À propos de moi
+## 🚀 About me
 
 > **"A programmer transforms complexity into simplicity."**
 
-Je suis un **Développeur FullStack**.
+I am a **FullStack Developer**.
 
-- 🏆 **Spécialités :** Django, Python, APIs REST, Applications FinTech...
-- 🎯 **Expertise :** Vue.js, Laravel, Django, Systèmes de paiement, automatisation
-- ⚙️ **DevOps :** Docker, CI/CD (GitHub Actions, GitLab), Configuration serveur
-- 🐧 **Automatisation :** Scripts Bash, Déploiement automatisé
-- 🌍 **Localisation :** Abomey-Calavi, Bénin 🇧🇯
-- 📧 **Contact :** eagnoun@gmail.com
-- 📱 **Téléphone/Whatsapp :** +229 01 96 256 694
+- 🏆 **Specialties:** Django, Python, REST APIs, FinTech Applications...
+- 🎯 **Expertise:** Vue.js, Laravel, Django, Payment systems, automation
+- ⚙️ **DevOps:** Docker, CI/CD (GitHub Actions, GitLab), Server configuration
+- 🐧 **Automation:** Bash scripts, Automated deployment
+- 🌍 **Location:** Abomey-Calavi, Benin 🇧🇯
+- 📧 **Contact:** eagnoun@gmail.com
+- 📱 **Phone/Whatsapp:** +229 01 96 256 694
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies & Tools
 
 ### Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,12 +40,12 @@ Je suis un **Développeur FullStack**.
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### Bases de Données
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### DevOps & Déploiement
+### DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
@@ -55,7 +55,7 @@ Je suis un **Développeur FullStack**.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -72,114 +72,114 @@ Je suis un **Développeur FullStack**.
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
-### **Développeur Backend Senior** | SCAR-SOFT
-*Novembre 2024 - Présent*
-- Conception et optimisation d'applications backend pour clients stratégiques
-- Fonctionnalité de signature électronique et génération de document signés
-- Système complet de gestion d'utilisateurs avec rôles et permissions granulaires
-- Mise en place d'architectures logicielles robustes et évolutives
-- Configuration serveur et déploiement avec Docker/Docker-compose
-- Automatisation CI/CD avec GitHub Actions
+### **Senior Backend Developer** | SCAR-SOFT
+*November 2024 - Present*
+- Design and optimization of backend applications for strategic clients
+- Electronic signature functionality and signed document generation
+- Complete user management system with granular roles and permissions
+- Implementation of robust and scalable software architectures
+- Server configuration and deployment with Docker/Docker-compose
+- CI/CD automation with GitHub Actions
 
-### **Développeur FullStack & Chargé de Programme** | GUNIVERS
-*Mai - Octobre 2024*
-- Développement CMS Laravel pour site officiel entreprise
-- Création API REST pour applications internes avec Django/Python
-- Intégration systèmes de paiement et authentification JWT
-- Pipeline CI/CD avec GitLab et déploiement automatisé
+### **FullStack Developer & Program Manager** | GUNIVERS
+*May - October 2024*
+- Laravel CMS development for official company website
+- REST API creation for internal applications with Django/Python
+- Payment systems integration and JWT authentication
+- CI/CD pipeline with GitLab and automated deployment
 
-### **Développeur Web** | VIPP INTERSTIS
-*Janvier - Avril 2024*
-- Développement interfaces Vue.js intuitives
-- Création scripts de traitement audio avec Bash et PHP
+### **Web Developer** | VIPP INTERSTIS
+*January - April 2024*
+- Development of intuitive Vue.js interfaces
+- Audio processing scripts creation with Bash and PHP
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Featured Projects
 
-### 💰 **Centime - Gestionnaire de Budget**
-Application FinTech de suivi des dépenses personnelles
-- **Technologies :** Vue.js, Firebase, Chart.js
-- **Features :** Suivi temps réel, catégorisation auto, tableaux de bord
-- **Live Demo :** [centime.netlify.app](https://centime.netlify.app/)
+### 💰 **Centime - Budget Manager**
+FinTech application for personal expense tracking
+- **Technologies:** Vue.js, Firebase, Chart.js
+- **Features:** Real-time tracking, auto categorization, dashboards
+- **Live Demo:** [centime.netlify.app](https://centime.netlify.app/)
 
-### 🏢 **Sites Corporate**
-Développement de plateformes d'entreprise modernes
-- **GROUP DS :** [groupds-ci.com](https://www.groupds-ci.com/)
-- **ARAD SARL :** [aradsarl.com](https://aradsarl.com/)
-- **ASHLER Portfolio :** [ashler.netlify.app](https://ashler.netlify.app/)
+### 🏢 **Corporate Websites**
+Development of modern enterprise platforms
+- **GROUP DS:** [groupds-ci.com](https://www.groupds-ci.com/)
+- **ARAD SARL:** [aradsarl.com](https://aradsarl.com/)
+- **ASHLER Portfolio:** [ashler.netlify.app](https://ashler.netlify.app/)
 
 ### 🔗 **Fèmi Shortify**
-Service de raccourcissement d'URLs avec analytics
-- **Technologies :** Vue.JS, Firebase
-- **Live Demo :** [femiurls.netlify.app](http://femiurls.netlify.app/)
+URL shortening service with analytics
+- **Technologies:** Vue.JS, Firebase
+- **Live Demo:** [femiurls.netlify.app](http://femiurls.netlify.app/)
 
 ---
 
-## ⚙️ Compétences DevOps & Infrastructure
+## ⚙️ DevOps & Infrastructure Skills
 
-### 🐳 **Containerisation & Orchestration**
-- **Docker & Docker-compose** pour environnements de développement et production
-- Configuration multi-services avec bases de données et caching
-- Orchestration d'applications complexes avec plusieurs conteneurs
+### 🐳 **Containerization & Orchestration**
+- **Docker & Docker-compose** for development and production environments
+- Multi-service configuration with databases and caching
+- Complex application orchestration with multiple containers
 
-### 🚀 **CI/CD & Automatisation**
-- Pipeline CI/CD avec **GitHub Actions** et **GitLab CI**
-- Scripts **Bash** pour automatisation des tâches répétitives
-- Déploiement automatisé sur serveurs de production
-- Tests automatisés et validation de code
+### 🚀 **CI/CD & Automation**
+- CI/CD pipeline with **GitHub Actions** and **GitLab CI**
+- **Bash scripts** for repetitive task automation
+- Automated deployment on production servers
+- Automated testing and code validation
 
-### 🖥️ **Configuration Serveur & Production**
-- Installation et configuration serveurs **Linux**
-- Gestion des environnements (développement, staging, production)
-- Monitoring et maintenance d'applications en production
-- Sécurisation et optimisation des performances serveur
-
----
-
-## 🎨 Portfolio Design
-
-### Maquettes Figma Professionnelles
-
-| Projet | Description | Lien |
-|--------|-------------|------|
-| **US INFORMATIQUE** | Dashboard entreprise tech moderne | [Voir sur Figma](https://www.figma.com/design/IDzGdi2oAJEIFeyb6WHxlh/US-INFORMATIQUE) |
-| **Mot2DePasse** | App gestion mots de passe sécurisée | [Voir sur Figma](https://www.figma.com/design/BZEnsNy0Tlg6FCnDp1i2r4/Mot2DePasse) |
-| **VAILLANA** | Chatbot de génération de site vitrine | [Voir sur Figma](https://www.figma.com/design/shKkfymd4KHne7nY8etMf8/Maquette-HIGHFIVE) |
+### 🖥️ **Server Configuration & Production**
+- **Linux** server installation and configuration
+- Environment management (development, staging, production)
+- Production application monitoring and maintenance
+- Server security and performance optimization
 
 ---
 
-## 🎓 Formation
+## 🎨 Design Portfolio
 
-- **Formation Professionnelle Développement Web** | RIGHFIVE UNIVERSITY (2023-2024)
-- **Système Informatique et Logiciel** | UATM CASA FORMATION (2021-2022)
-- **Baccalauréat Scientifique Série C** | CEGI Dassa-Zôumè (2018-2019)
+### Professional Figma Mockups
 
----
-
-## 🌟 Compétences Techniques Avancées
-
-- **🎯 Leadership technique** - Gestion d'équipes de développement
-- **💡 Innovation** - Création de solutions créatives et efficaces
-- **🐳 DevOps & Déploiement** - Docker, CI/CD, Configuration serveur
-- **⚙️ Automatisation** - Scripts Bash, Pipeline GitHub Actions/GitLab
-- **🤝 Communication** - Excellent relationnel client et équipe
-- **🔄 Adaptabilité** - Veille technologique constante
+| Project | Description | Link |
+|---------|-------------|------|
+| **US INFORMATIQUE** | Modern tech enterprise dashboard | [View on Figma](https://www.figma.com/design/IDzGdi2oAJEIFeyb6WHxlh/US-INFORMATIQUE) |
+| **Mot2DePasse** | Secure password management app | [View on Figma](https://www.figma.com/design/BZEnsNy0Tlg6FCnDp1i2r4/Mot2DePasse) |
+| **VAILLANA** | Website generation chatbot | [View on Figma](https://www.figma.com/design/shKkfymd4KHne7nY8etMf8/Maquette-HIGHFIVE) |
 
 ---
 
-## 🌍 Langues
+## 🎓 Education
 
-- **Français** - Natif
-- **Anglais** - Professionnel
-- **Nago** - Natif
-- **Fon** - Courant
+- **Professional Web Development Training** | RIGHFIVE UNIVERSITY (2023-2024)
+- **Computer Systems and Software** | UATM CASA FORMATION (2021-2022)
+- **Scientific Baccalaureate Series C** | CEGI Dassa-Zôumè (2018-2019)
 
 ---
 
-## 📞 Contact & Liens
+## 🌟 Advanced Technical Skills
+
+- **🎯 Technical leadership** - Development team management
+- **💡 Innovation** - Creative and efficient solution creation
+- **🐳 DevOps & Deployment** - Docker, CI/CD, Server configuration
+- **⚙️ Automation** - Bash scripts, GitHub Actions/GitLab pipelines
+- **🤝 Communication** - Excellent client and team relations
+- **🔄 Adaptability** - Constant technological watch
+
+---
+
+## 🌍 Languages
+
+- **French** - Native
+- **English** - Professional
+- **Nago** - Native
+- **Fon** - Fluent
+
+---
+
+## 📞 Contact & Links
 
 <div align="center">
 
@@ -194,11 +194,11 @@ Service de raccourcissement d'URLs avec analytics
 
 <div align="center">
 
-### 💻 Actuellement disponible pour
+### 💻 Currently available for
 
-**Développement Django/Python** • **DevOps & CI/CD** • **Consulting technique** • **Projets FinTech** • **Configuration serveur** • **Mentorat**
+**Django/Python Development** • **DevOps & CI/CD** • **Technical Consulting** • **FinTech Projects** • **Server Configuration** • **Mentoring**
 
-*“Let's create solutions together that turn ideas into reality ”* ✨
+*"Let's create solutions together that turn ideas into reality "* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ObafemiEuloge&style=flat-square&color=blue)
 
