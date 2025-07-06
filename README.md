@@ -185,9 +185,9 @@ Service de raccourcissement d'URLs avec analytics
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://obafemi.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esngnoun@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eagnoun@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agnoun)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+22996256694)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+2290196256694)
 
 </div>
 
@@ -199,7 +199,7 @@ Service de raccourcissement d'URLs avec analytics
 
 **Développement Django/Python** • **DevOps & CI/CD** • **Consulting technique** • **Projets FinTech** • **Configuration serveur** • **Mentorat**
 
-*"Créons ensemble des solutions qui transforment les idées en réalité"* ✨
+*“Let's create solutions together that turn ideas into reality ”* ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ObafemiEuloge&style=flat-square&color=blue)
 
