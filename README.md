@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Obafèmi Euloge
+# 👋 Hey, I'm Obafèmi Euloge
 
 <div align="center">
 
@@ -12,9 +12,8 @@
 
 > **"A programmer transforms complexity into simplicity."**
 
-Je suis un **Développeur FullStack**. Actuellement **Développeur Fullstack Senior chez SCAR-SOFT**, je crée des solutions robustes et évolutives.
+Je suis un **Développeur FullStack**.
 
-- 🔭 **Poste actuel :** Développeur Fullstack Senior @ **SCAR-SOFT** (depuis Nov. 2024)
 - 🏆 **Spécialités :** Django, Python, APIs REST, Applications FinTech...
 - 🎯 **Expertise :** Vue.js, Laravel, Django, Systèmes de paiement, automatisation
 - ⚙️ **DevOps :** Docker, CI/CD (GitHub Actions, GitLab), Configuration serveur
