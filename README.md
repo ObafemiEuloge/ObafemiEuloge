@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+products+that+matter.;From+clean+code+to+robust+infrastructure.;Vue.js+%7C+Next.js+%7C+Django+%7C+FastAPI;Docker+%7C+VPS+%7C+CI%2FCD+%7C+Security)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-080D1A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://agnoun.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-080D1A?style=for-the-badge&logo=firefox&logoColor=38BDF8)](https://obafemiagnoun.cloud)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obafemieuloge)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AgnounEuloge)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eagnoun@gmail.com)
