@@ -4,11 +4,11 @@
 
 ### I help founders build, launch and scale software products.
 
-**Product Engineer** based in Benin 🇧🇯
+**Product Engineer** • Benin 🇧🇯 • Remote (GMT+1)
 
-Building modern software from idea to production.
+Building software that people actually use.
 
-<p>
+<p align="center">
 
 <a href="https://obafemiagnoun.cloud">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
@@ -28,30 +28,41 @@ Building modern software from idea to production.
 
 ---
 
-# 🚀 What I Do
+# 🚀 Building software from idea to production
 
 I partner with founders, startups and SMEs to transform ideas into reliable software products.
 
-From the first architecture diagram to production deployment, I take ownership of the complete product lifecycle.
+I don't only write code.
 
-### My focus
+I take ownership of the entire product lifecycle:
 
-- Product Architecture
-- Full-Stack Development
-- REST APIs & Backend Systems
-- Scalable Frontend Applications
-- DevOps & Cloud Infrastructure
-- Docker & CI/CD
-- Production Deployment
-- Long-term Product Evolution
+- 🏗 Product Architecture
+- 💻 Full-Stack Development
+- ⚙ Backend Systems & APIs
+- 🎨 Frontend Applications
+- 🐳 DevOps & Infrastructure
+- 🚀 CI/CD & Production Deployment
+- 📈 Long-term Product Evolution
 
 ---
 
 # 🌍 Featured Products
 
+<table>
+<tr>
+<td width="50%">
+
 ## 🏆 Kengan
 
-A real-time knowledge dueling platform featuring WebSockets, Mobile Money payments, PWA support, push notifications and an administration dashboard.
+Real-time knowledge dueling platform.
+
+### Highlights
+
+- ⚡ Real-time WebSocket engine
+- 💳 Mobile Money payments
+- 📲 Progressive Web App
+- 🔔 Push Notifications
+- 🛠 Admin Dashboard
 
 **Stack**
 
@@ -59,11 +70,20 @@ Next.js • NestJS • PostgreSQL • Redis • Docker
 
 🌐 https://kengan.me
 
----
+</td>
+
+<td width="50%">
 
 ## 📚 EducaPro
 
-An EdTech platform connecting students and tutors through intelligent matching, scheduling and Mobile Money integration.
+EdTech platform connecting students and tutors.
+
+### Highlights
+
+- 👨‍🏫 Tutor matching
+- 📅 Session scheduling
+- 💳 Mobile Money
+- 📈 Administration Dashboard
 
 **Stack**
 
@@ -71,36 +91,29 @@ Next.js • FastAPI • PostgreSQL • Docker
 
 🌐 https://educapro.africa
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🚀 Sekaiii Suite
+# 🚀 Sekaiii Suite
 
-An ecosystem of software products built for businesses.
+An ecosystem of software products designed for startups and businesses.
 
-Products include:
-
-- ✍️ Sekaiii Write
-- 💼 Sekaiii Jobs
-- 📦 Sekaiii Stock
-- 🖥️ Sekaiii Desk
-
-**Stack**
-
-Next.js • FastAPI • PostgreSQL • Docker
+| Product | Description |
+|---------|-------------|
+| ✍️ Write | AI Writing Assistant |
+| 💼 Jobs | Recruitment Platform |
+| 📦 Stock | Inventory Management |
+| 🖥 Desk | Workspace & Productivity |
 
 🌐 https://sekaii.me
 
 ---
 
-## 🏠 MIVO
-
-Marketplace connecting customers with trusted home service providers.
-
-🌐 https://mivo.africa
-
----
-
-# ⚙️ Core Technologies
+# ⚙️ Core Expertise
 
 ### Frontend
 
@@ -110,7 +123,7 @@ Next.js • React • Vue.js • TypeScript • TailwindCSS
 
 Django • FastAPI • Laravel • NestJS
 
-### Database
+### Databases
 
 PostgreSQL • Redis • MySQL
 
@@ -120,34 +133,58 @@ Docker • Linux • Nginx • Cloudflare • GitHub Actions
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ObafemiEuloge&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ObafemiEuloge&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObafemiEuloge&layout=compact&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObafemiEuloge&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ObafemiEuloge&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🛠 Current Focus
+
+- Building the **Sekaiii** ecosystem
+- Scaling **Kengan**
+- Developing AI-powered SaaS products
+- Designing production-ready software for startups
+
+---
+
 # 🤝 Let's Build Together
 
-I'm always interested in collaborating with founders and product teams building ambitious software products.
+I'm always interested in working with founders and product teams building ambitious software products.
 
-Whether you're validating an MVP, scaling an existing platform or looking for a long-term technical partner, I'd be happy to connect.
+Whether you're validating an MVP, scaling an existing platform or looking for a long-term technical partner, I'd love to connect.
 
-📧 **Email:** eagnoun@gmail.com
+<p>
 
-🌍 **Portfolio:** https://obafemiagnoun.cloud
+🌍 Portfolio  
+https://obafemiagnoun.cloud
 
-💼 **LinkedIn:** https://linkedin.com/in/obafemieuloge
+💼 LinkedIn  
+https://linkedin.com/in/obafemieuloge
+
+📧 Email  
+eagnoun@gmail.com
+
+</p>
 
 ---
 
 <div align="center">
 
-**"Great software isn't just written. It's carefully designed, built and continuously improved."**
+> **"Software is more than code. It's solving the right problem, with the right architecture, for the right people."**
+
+<img src="https://komarev.com/ghpvc/?username=ObafemiEuloge&style=flat-square&color=blue"/>
 
 </div>
