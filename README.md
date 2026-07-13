@@ -282,12 +282,20 @@ Your product is live and must evolve. I own features, reliability, security and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ObafemiEuloge&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=A1A1AA&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObafemiEuloge&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=A1A1AA&bg_color=00000000" alt="Top languages" />
-
-<img width="82%" src="https://github-readme-activity-graph.vercel.app/graph?username=ObafemiEuloge&hide_border=true&bg_color=00000000&color=A1A1AA&line=8B5CF6&point=8B5CF6&area=true&area_color=8B5CF6" alt="Contribution graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ObafemiEuloge&hide_border=true&bg_color=00000000&color=A1A1AA&line=8B5CF6&point=8B5CF6&area=true&area_color=8B5CF6" alt="Contribution graph" />
 
 </div>
+
+<!--
+  STATS CARDS — désactivées : l'instance publique github-readme-stats.vercel.app
+  renvoie souvent un HTTP 503 (rate-limit) et casse l'affichage.
+  Pour les réactiver de façon fiable : déploie ton propre github-readme-stats
+  sur Vercel (https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance),
+  puis remplace "github-readme-stats.vercel.app" par TON-DOMAINE.vercel.app ci-dessous.
+
+<img height="165" src="https://TON-DOMAINE.vercel.app/api?username=ObafemiEuloge&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=A1A1AA&bg_color=00000000" alt="GitHub stats" />
+<img height="165" src="https://TON-DOMAINE.vercel.app/api/top-langs/?username=ObafemiEuloge&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=A1A1AA&bg_color=00000000" alt="Top languages" />
+-->
 
 <br />
 
