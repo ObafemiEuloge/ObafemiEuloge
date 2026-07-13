@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Products_in_production-8-8B5CF6?style=flat-square&labelColor=18181B" alt="Products in production" />
+  <img src="https://img.shields.io/badge/Products_in_production-9-8B5CF6?style=flat-square&labelColor=18181B" alt="Products in production" />
   <img src="https://img.shields.io/badge/Building_since-2021-18181B?style=flat-square&labelColor=18181B&color=27272A" alt="Building since 2021" />
   <img src="https://img.shields.io/badge/Ownership-UI_%E2%86%92_Infrastructure-18181B?style=flat-square&labelColor=18181B&color=27272A" alt="Full ownership" />
   <img src="https://img.shields.io/badge/Based_in-Benin_%C2%B7_GMT%2B1-18181B?style=flat-square&labelColor=18181B&color=27272A" alt="Benin, GMT+1" />
@@ -172,14 +172,14 @@ Automatic student/tutor matching, scheduled sessions and Mobile Money payments.
 <tr>
 <td width="50%" valign="top">
 
-### MIVO
-Home-services marketplace.
+### Africa Ecodev
+Enterprise multi-branch platform.
 
-Two-sided platform with listings, matching and real-time bookings.
+Bilingual (FR/EN) CMS back-office, RBAC, online course sales, bookings and real-estate/lease management.
 
-`Nuxt.js` · `Django` · `WebSocket` · `PostgreSQL` · `Docker`
+`Nuxt.js` · `AdonisJS` · `MySQL` · `REST API`
 
-[mivo.africa](https://mivo.africa) · **In production**
+[africa-ecodev.com](https://africa-ecodev.com) · **In production**
 
 </td>
 <td width="50%" valign="top">
@@ -206,6 +206,7 @@ Four products — Write, Jobs, Desk, Stock — on one multi-tenant foundation.
 |---|---|---|---|
 | **[Kengan](https://kengan.me)** | Real-time knowledge dueling, Mobile Money | Next.js · NestJS · Redis | 🟢 Production |
 | **[EducaPro](https://educapro.africa)** | EdTech tutoring across 12 regions | Next.js · FastAPI | 🟢 Production |
+| **[Africa Ecodev](https://africa-ecodev.com)** | Enterprise multi-branch platform, CMS + RBAC | Nuxt.js · AdonisJS · MySQL | 🟢 Production |
 | **[Sekaii Write](https://write.sekaii.me)** | AI cover letters in under 60s | Next.js · FastAPI · LLM | 🟢 Production |
 | **[Sekaii Jobs](https://jobs.sekaii.me)** | Remote job discovery from socials | Next.js · FastAPI · LLM | 🟢 Production |
 | **[Sekaii Desk](https://desk.sekaii.me)** | Client portal for freelancers & agencies | Next.js · FastAPI · LLM | 🟢 Production |
